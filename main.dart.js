@@ -89887,7 +89887,7 @@ A.OA.prototype={
 I(a){return A.nm(new A.abK(),t.b5,t.y)}}
 A.abK.prototype={
 $2(a,b){var s=null
-return new A.qW(B.KQ,"Flutter Login",A.wW(s,s,B.hp,s),!1,s)},
+return new A.qW(B.KQ,"E-Stock",A.wW(s,s,B.hp,s),!1,s)},
 $S:583}
 A.BX.prototype={
 I(a){return A.nm(new A.abJ(),t.b5,t.y)}}
